@@ -1,0 +1,5 @@
+package Org;
+
+public class interface Transferrable {
+public void transfer();
+}

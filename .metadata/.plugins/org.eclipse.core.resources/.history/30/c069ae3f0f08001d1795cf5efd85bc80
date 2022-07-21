@@ -1,0 +1,10 @@
+package stream;
+
+public class Test {
+
+	public static void main(String[] args) {
+		Product p1=new Product(1001,"TV",1500,"Apple",0);
+		
+	}
+
+}

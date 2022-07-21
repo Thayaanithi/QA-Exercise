@@ -1,0 +1,11 @@
+package org;
+
+public class Test {
+
+	public static void main(String[] args) {
+		//public Employee()
+Employee e1=new Employee();
+e1.firstName="John";	
+	}
+
+}

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\QA-JAVABASICS\LoggingExample\src\main\resources\NewFile.xml"/>
+			<item value="C:\QA-JAVABASICS\CollectionExample\src\main\java\map_org\TestMap.java"/>
+			<item value="C:\QA-JAVABASICS\CollectionExample\src\main\java\arraylist_org\TestArrayList.java"/>
+			<item value="C:\QA-JAVABASICS\LambdaExpressionExample\src\main\java\Org\Test.java"/>
+			<item value="C:\QA-JAVABASICS\Org"/>
+			<item value="C:\QA-JAVABASICS\SingletonExample\src\main\java\org\Test.java"/>
+			<item value="C:\QA-JAVABASICS\BuilderExample\src\main\java\org\Test.java"/>
+			<item value="C:\QA-JAVABASICS\ExceptionMevanExample\src\main\java\Com\Test.java"/>
+			<item value="C:\QA-JAVABASICS\ThayaaMavenProject"/>
+			<item value="C:\QA-JAVABASICS\welcomeApp"/>
+			<item value="C:\QA-JAVABASICS\ThayaaMavenProject\src\main\java\org\qa\Calculator.java"/>
+			<item value="C:\QA-JAVABASICS\Leapproject"/>
+			<item value="C:\QA-JAVABASICS\Junitapplication\src\Org\Calculator.java"/>
+			<item value="C:\QA-JAVABASICS\Junitapplication\src\Org\string.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.qa"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="FileHandling"/>
+			<item value="MethodChaining"/>
+			<item value="GenericsExample"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="836"/>
+		<item key="x" value="720"/>
+		<item key="y" value="15"/>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,7 @@
+package org;
+
+public class Test {
+public static void main(String[] args) {
+	Product obj = new Product(101, "TV", "Apple", 1500);
+}
+}

@@ -1,0 +1,17 @@
+package Org;
+
+import java.util.Scanner;
+
+public class TestJDBCOperations {
+
+	public static void main(String[] args) {
+		Scanner scn = new Scanner(System.in);
+		JDBCOperation ops = new JDBCOperation();
+		char ans='y';
+		System.out.println("Hello welcome to my applicatio");
+		System.out.println("----------------------");
+		
+		
+	}
+
+}
