@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\QA-JAVABASICS\Exercises"/>
+			<item value="C:\QA-JAVABASICS\DesignPattern\src\main\java\org\Infareded.java"/>
 			<item value="C:\QA-JAVABASICS\LoggingExample\src\main\resources\NewFile.xml"/>
 			<item value="C:\QA-JAVABASICS\CollectionExample\src\main\java\map_org\TestMap.java"/>
 			<item value="C:\QA-JAVABASICS\CollectionExample\src\main\java\arraylist_org\TestArrayList.java"/>
@@ -15,7 +17,6 @@
 			<item value="C:\QA-JAVABASICS\ThayaaMavenProject\src\main\java\org\qa\Calculator.java"/>
 			<item value="C:\QA-JAVABASICS\Leapproject"/>
 			<item value="C:\QA-JAVABASICS\Junitapplication\src\Org\Calculator.java"/>
-			<item value="C:\QA-JAVABASICS\Junitapplication\src\Org\string.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -58,11 +59,19 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="ThayaaFirstWebApp"/>
+			<item value="MyFirstWebApp"/>
 			<item value="com.qa"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="ThayaaFirstWebApp"/>
+			<item value="MyFirstWebApp"/>
+			<item value="sampleforgithub"/>
+			<item value="Sampleforgit"/>
+			<item value="EmployeeExample"/>
+			<item value="DesignPattern"/>
 			<item value="FileHandling"/>
 			<item value="MethodChaining"/>
 			<item value="GenericsExample"/>
@@ -99,6 +108,19 @@
 			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="MyFirstWebApp"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="MyFirstWebApp"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
 </section>

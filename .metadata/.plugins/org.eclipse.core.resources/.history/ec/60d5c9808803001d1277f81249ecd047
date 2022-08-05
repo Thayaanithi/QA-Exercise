@@ -1,6 +1,0 @@
-package practice;
-
-	public interface Shape{
-	    public double calculateArea();
-	}
-

@@ -6,14 +6,14 @@ public class Test {
 		// public Employee()
 		Employee e1 = new Employee();
 		e1.firstName = "John";
-		e1.lastName = "Doe";
+		e1.LastName = "Doe";
 		e1.age = 32;
 		e1.address="India";
 		e1.Email="gmail.com";
 		e1.basicSalary=100000;
 		e1.phoneNo="1234567897";
 		// public Employee(String firstName, String lastName, int age, String address
-		Employee e2=new Employee("Upasana","Dew",32,"India", "9620093666", "u@gmail.com",100000);
+		Employee e2=new Employee("Upasana","Dew",32,"India","9620093666","u@gamil.com",100000);
 		int tempSalary=e1.calculateSalary(200000);
 		System.out.println(tempSalary);
 		System.out.println(e1.greeting());

@@ -1,6 +1,0 @@
-package Org;
-@FunctionalInterface
-public class interface Doable {
-	public void doSomething();
-
-}

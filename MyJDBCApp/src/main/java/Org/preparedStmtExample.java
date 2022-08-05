@@ -19,12 +19,11 @@ try {
     con=DriverManager.getConnection(url,userName,password);
     System.out.println("Connection successful");
     // String query = "select * from student where id=?"; //java statement
-    PreparedStatement psmt = con.prepareStatement("select * from student where id=? or name=? or address=?");
-    psmt.setInt(1,  107);
-    psmt.setString(2, "Upasana");
-    psmt.setString(3, "London");
-    PreparedStatement pstmt;
-	ResultSet rs= pstmt.executeQuery(); //execute the statement and store the result
+    PreparedStatement pstmt = con.prepareStatement("select * from student where id=? or name=? or address=?");
+    pstmt.setInt(1,  107);
+    pstmt.setString(2, "Upasana");
+    pstmt.setString(3, "London");
+    ResultSet rs= pstmt.executeQuery(); //execute the statement and store the result
     while(rs.next()) //iterate through the result
     {
         int id=rs.getInt(1);
@@ -47,4 +46,4 @@ try {
 }
 }	
 
-    }
+    

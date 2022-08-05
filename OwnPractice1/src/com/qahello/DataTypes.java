@@ -10,6 +10,5 @@ public class DataTypes {
 		System.out.println("Value returned");
 		return "Hello World";
 
-	}
-
+	}	
 }
